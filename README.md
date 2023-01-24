@@ -1,7 +1,7 @@
 <h1>Nyresa</h1>
 
 <h2>Description</h2>
-<p>Nyresa is basically an e-commerce website where users can buy products such as clothings, apparels etc.</p>
+<p>Nyresa is an e-commerce website where users can buy products such as clothing, apparel etc. This was a collaborative project made by a team of 5 members. React has been used for frontend and Redux has been used for state management. For backend the server has been deployed on Vercel and all CRUD operations can be performed using it.</p>
 <img src="https://i.ibb.co/R6JqyP9/Nyresa.png" alt="Nyresa" border="0">
 <img src="https://i.postimg.cc/tT4yNCYF/1.png" alt="Nyresa" border="0">
 <img src="https://i.postimg.cc/Rh3B2s1F/2.png" alt="Nyresa" border="0">
